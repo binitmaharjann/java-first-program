@@ -1,4 +1,4 @@
-public class RunBcaStudent {
+  public class RunBcaStudent {
     public static void main(String[] args){
         BcaStudent encap = new BcaStudent("Bishal", 20, "ktm");
         encap.display();
